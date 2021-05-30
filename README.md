@@ -2,6 +2,11 @@
 An Among Us mod That adds 30+ custom hats into the game !!!
 This mod works for Among us versions 2021.5.10 - 2021.5.25.2
 
+Showcase Video
+
+Watch this video to see all the hats in the mod.
+​https://youtu.be/nDvMRV0z8Rc
+
 Installation
 
 Simply unzip the file and add the those files in Among Us root directory folder. (The file path is usually Steamlibrary > steamapps > common > Among Us.)
