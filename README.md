@@ -17,3 +17,5 @@ and if you have any suggestions for the mod, free feel to give them out in my di
 Youtube - https://youtube.com/diceflip
 Check out the cool videos
 and SUBSCRIBE if you like them 😀
+
+Hats by - Plvnt, Faceless Shadow, Wong, Diceflip
